@@ -1,6 +1,6 @@
 ## Hi there 👋
 안녕하세요. 백엔드 개발자 **이청은**입니다.
-> Contact Me : ce090404@naver.com
+> Contact Me : cheongeun02@gmail.com
 ### 📚Tech Stack
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
